@@ -1,0 +1,8 @@
+--------------------------------( STUDENT RECORD )--------------------------------
+Name                : S.M.JAWWAD UL HASNAIN
+UserId              : JAWWAD.123
+Roll #              : 73
+Enrollment No.      : 22
+Entry Test Score    : 75
+Merit No.            : 22
+Discilpine          : Computer Science & Information Technology
